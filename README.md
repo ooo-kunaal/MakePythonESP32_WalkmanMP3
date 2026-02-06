@@ -21,6 +21,10 @@ A MakePython ESP32-based offline Walkman (WAV player) that streams audio from an
 
 <img width="546" height="807" alt="image" src="https://github.com/user-attachments/assets/9afc44f4-77b7-44ac-ae1f-634d301bff0f" />
 
+<img width="525" height="591" alt="image" src="https://github.com/user-attachments/assets/d9fb69fa-cf41-4c9e-861e-0486ce983d2a" />
+
+<img width="468" height="610" alt="image" src="https://github.com/user-attachments/assets/ea6a44a7-b4cc-4d93-afd5-5b8085682d69" />
+
 
 ## Hardware
 
